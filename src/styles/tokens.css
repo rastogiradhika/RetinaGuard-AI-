@@ -1,0 +1,29 @@
+:root {
+  /* ── RetinaGuard AI Design Tokens ─────────────────── */
+
+  /* Core B&W */
+  --c-black:    #000000;
+  --c-dark:     #0d0d0d;
+  --c-gray-900: #111111;
+  --c-gray-800: #1c1c1c;
+  --c-gray-700: #2e2e2e;
+  --c-gray-600: #4a4a4a;
+  --c-gray-500: #6b6b6b;
+  --c-gray-400: #9a9a9a;
+  --c-gray-300: #c4c4c4;
+  --c-gray-200: #e2e2e2;
+  --c-gray-100: #f0f0f0;
+  --c-gray-50:  #f8f8f8;
+  --c-white:    #ffffff;
+
+  /* Accent — Medical Teal (reads on dark AND light) */
+  --c-teal:       #00C2A8;
+  --c-teal-dark:  #009E88;
+  --c-teal-dim:   rgba(0, 194, 168, 0.15);
+
+  /* Typography */
+  --font-sans: 'Inter', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace;
+
+  --max-w: 1440px;
+}
